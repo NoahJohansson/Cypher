@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\Cypher\bin\Debug\Cypher.exe.config
+C:\Users\Lenovo\source\repos\Cypher\bin\Debug\Cypher.exe
+C:\Users\Lenovo\source\repos\Cypher\bin\Debug\Cypher.pdb
+C:\Users\Lenovo\source\repos\Cypher\obj\Debug\Cipher.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Cypher\obj\Debug\Cypher.Form1.resources
+C:\Users\Lenovo\source\repos\Cypher\obj\Debug\Cypher.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Cypher\obj\Debug\Cipher.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Cypher\obj\Debug\Cypher.exe
+C:\Users\Lenovo\source\repos\Cypher\obj\Debug\Cypher.pdb
